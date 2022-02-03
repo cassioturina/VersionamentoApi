@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VersionamentoApi.Enitdades
+namespace VersionamentoApi.Entidades
 {
     public class Cliente
     {

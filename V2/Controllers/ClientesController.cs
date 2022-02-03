@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net.Mime;
 using System.Threading.Tasks;
 using VersionamentoApi.Controllers;
-using VersionamentoApi.Enitdades;
+using VersionamentoApi.Entidades;
 
 namespace VersionamentoApi.V2.Controllers
 {
